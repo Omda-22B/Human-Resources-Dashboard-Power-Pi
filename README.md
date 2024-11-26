@@ -121,7 +121,7 @@ Rating Levels and Satisfaction Levels:
 Satisfaction Levels are categorized from Very Dissatisfied (1) to Very Satisfied (5).
 Rating Levels are categorized from Unacceptable (1) to Above and Beyond (5).
 
-![Employee Satisfaction.png](Employee Satisfaction.png)
+![Employee_Satisfaction.png](Employee_Satisfaction.png)
 
 
 
