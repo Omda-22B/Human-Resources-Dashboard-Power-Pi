@@ -97,6 +97,31 @@ Detailed Visualizations
 ![Gender.png](Gender.png)
 
 
+Key Metrics and Insights
+Job Satisfaction by Year:
+
+Shows a continuous improvement over the years, increasing from 0.5K employees in 2012 to 3.8K employees in 2022 expressing satisfaction with their jobs.
+Environment Satisfaction by Year:
+
+Reflects growth in positive perceptions of the workplace environment, with satisfaction rising from 0.6K in 2012 to 4.2K in 2022.
+Work-Life Balance by Year:
+
+Demonstrates significant improvement, starting at 0.5K employees in 2012 and reaching 3.8K employees in 2022, indicating enhanced balance between work and personal life.
+Relationship Satisfaction by Year:
+
+Indicates strong growth in satisfaction with workplace relationships, from 0.5K employees in 2012 to 3.7K employees in 2022.
+Self-Rating by Year:
+
+Tracks employee self-assessments, growing from 0.6K in 2012 to 4.5K in 2022, showcasing higher confidence and self-perceived performance levels.
+Manager Rating by Year:
+
+Highlights improved perceptions of managerial performance, increasing steadily from 0.5K employees in 2012 to 3.9K employees in 2022.
+Rating Levels and Satisfaction Levels:
+
+Satisfaction Levels are categorized from Very Dissatisfied (1) to Very Satisfied (5).
+Rating Levels are categorized from Unacceptable (1) to Above and Beyond (5).
+
+![Employee Satisfaction.png](Employee Satisfaction.png)
 
 
 
