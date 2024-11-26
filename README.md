@@ -123,6 +123,39 @@ Rating Levels are categorized from Unacceptable (1) to Above and Beyond (5).
 
 ![Employee_Satisfaction.png](Employee_Satisfaction.png)
 
+Key Metrics and Insights
+Attrition by Ethnicity
+White employees: 137 attritions, the highest among ethnic groups.
+Other groups like Black/African American (31) and Asian/Asian American (18) exhibit significantly lower attrition counts.
+Attrition Rate Over Time
+Attrition Rate:
+25.48% of employees have left the organization.
+74.52% remain employed.
+Attrition & Employees by Job Role
+High Attrition Roles:
+Data Scientist: 62 attritions (highest).
+Sales Executive: 57 attritions.
+Software Engineer: 47 attritions.
+Low Attrition Roles:
+Managerial and HR roles show minimal attrition counts (≤3).
+Attrition & Employees by Education
+Top Educational Backgrounds:
+Computer Science: 440 employees, leading in both workforce size and attrition.
+Information Systems: 363 employees.
+Lowest Attrition:
+Fields like Human Resources (27 employees) and Technical Degrees (38 employees).
+Employee & Attrition by Department
+Departmental Attrition Rates:
+Technology: 12.16% attrition (87.84% retention).
+Sales: 17.10% attrition.
+Human Resources: 16.00% attrition.
+Employee & Attrition by Marital Status
+Attrition Trends:
+Single employees: Highest attrition rate (128).
+Married employees: Lower attrition count (79), with the largest workforce size (624).
+Divorced employees: Minimal attrition (30).
+
+![Employee_Attrition_and_Salary_Insights.png](Employee_Attrition_and_Salary_Insights.png)
 
 
 
