@@ -27,4 +27,40 @@ Employee Experience Improvement: • Objective: Analyze employee satisfaction da
 
 
 
+# Tools and Technologies Used
+
+Tools and Technologies Used
+This project leverages the following tools and technologies to deliver actionable insights and data-driven solutions:
+
+Power BI
+• Power Query: Utilized to clean, transform, and shape raw data into a structured format.
+• DAX (Data Analysis Expressions): Applied advanced formulas and calculations to create meaningful metrics and KPIs.
+• Data Modeling: Designed and optimized data relationships for efficient querying and reporting.
+
+Microsoft Excel
+• Power Query: Used for data transformation and pre-processing before importing into Power BI.
+
+
+# Sales Overview Dashboard
+
+• Total Employees:
+The organization employs 1,470 individuals.
+
+• Attrition Count and Rate:
+Total Attrition Count: 237 employees.
+
+• Attrition Rate: 16.12%, highlighting the percentage of employees who have left the organization.
+
+• Active Employees:
+The current workforce includes 1,233 active employees.
+
+• Average Employee Age:
+The average age across the workforce is 28.99 years.
+
+
+
+
+
+
+
 
