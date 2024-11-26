@@ -57,7 +57,7 @@ The current workforce includes 1,233 active employees.
 • Average Employee Age:
 The average age across the workforce is 28.99 years.
 
-
+![Home.png](Home.png)
 
 
 
