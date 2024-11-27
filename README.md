@@ -79,28 +79,52 @@ Detailed Visualizations
 
 1. Gender Distribution:
 - Female Employees: 675 employees.
+- 
 - Male Employees: 651 employees.
+- 
 - Non-Binary Employees: 124 employees.
+- 
 - Prefer Not to Say: 20 employees.
+
+- 
 2. Age Range:
+  
 - The minimum age in the workforce is 18 years.
+- 
 - The maximum age is 51 years.
+- 
 3. Salary Distribution by Gender:
+  
 - Male employees account for 46.32% of the total salary allocation.
+- 
 - Female employees receive 43.82% of the salaries.
+  
 - Non-Binary employees make up 8.32% of the salary allocation.
+
 - Prefer Not to Say employees account for the remaining portion.
+  
 4. Active Employees by Department:
+   
 - Technology Department: The largest department with 828 active employees.
+  
 - Sales Department: Comprises 354 active employees.
+  
 - Human Resources: The smallest department, with 51 employees.
+  
 5. Attrition by Year and Gender:
+   
 - Attrition trends from 2012 to 2022 are broken down by gender, with notable spikes in 2016 and 2020.
+  
 - Female employees experienced higher attrition rates during peak years.
+  
 6. Attrition Count and Average Salary by Job Role:
+
 - The Data Scientist role shows the highest attrition count (62 employees).
+  
 - Other notable roles with high attrition include Sales Executive (57 employees) and Software Engineer (47 employees).
+  
 - Lower attrition is observed among Managers and HR Executives.
+  
 ![Gender.png](Gender.png)
 
 
