@@ -78,15 +78,10 @@ Detailed Visualizations
 
 
 1. Gender Distribution:
-- Female Employees: 675 employees.
-- 
-- Male Employees: 651 employees.
-- 
-- Non-Binary Employees: 124 employees.
-- 
-- Prefer Not to Say: 20 employees.
-
-- 
+  - Female Employees: 675 employees.
+  - Male Employees: 651 employees.
+  - Non-Binary Employees: 124 employees.
+  - Prefer Not to Say: 20 employees.
 2. Age Range:
   
 - The minimum age in the workforce is 18 years.
